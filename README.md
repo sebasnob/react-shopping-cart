@@ -1,4 +1,4 @@
-## React Shopping Cart
+# React Shopping Cart
 
 A basic react shopping cart.
 
