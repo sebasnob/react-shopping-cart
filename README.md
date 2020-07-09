@@ -2,17 +2,17 @@
 
 A basic react shopping cart.
 
-# Clone repository
+## Clone repository
 
 git clone https://github.com/sebasnob/react-shopping-cart.git
 
 
-# Install dependencies
+## Install dependencies
 
 `npm install`
 
 
-# Init local server
+## Init local server
 
 `npm start`
 
